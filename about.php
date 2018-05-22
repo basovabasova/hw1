@@ -6,7 +6,6 @@
     $about = 'Менеджер';
 ?>
 
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -47,7 +46,5 @@
       <dt>О себе</dt>
       <dd><?= $about ?></dd>
     </dl> 
-
 </body>
 </html>
-
