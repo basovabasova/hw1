@@ -1,6 +1,6 @@
  <?php
     $name = 'Ольга';
-    $age = '29';
+    $age = '30';
     $email = 'fedosova.olya@gmail.com';
     $location = 'Санкт-Петербург';
     $about = 'Менеджер';
